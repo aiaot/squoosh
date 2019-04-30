@@ -1,0 +1,2 @@
+# squoosh
+squoosh build
